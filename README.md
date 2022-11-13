@@ -1,2 +1,5 @@
 # LSTM_yfinance
-Date: 02.11.2022
+
+Date created: 14.01.2022
+
+Stock Market Prediction using a **LSTM** network.
